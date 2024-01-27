@@ -1,0 +1,5 @@
+flutter_native_splash:
+  color: "#FFFFFF" # Replace with your desired color in hex format
+  color_dark: "#272727" # Replace with your desired dark color in hex format
+  image: assets/images/logo-lit.png
+  image_dark: assets/images/logo-dark.png
